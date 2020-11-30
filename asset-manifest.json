@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.097ee907.chunk.css",
-    "main.js": "/static/js/main.5f3275f6.chunk.js",
-    "main.js.map": "/static/js/main.5f3275f6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4135bcfb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4135bcfb.js.map",
-    "static/js/2.5bd973f5.chunk.js": "/static/js/2.5bd973f5.chunk.js",
-    "static/js/2.5bd973f5.chunk.js.map": "/static/js/2.5bd973f5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.097ee907.chunk.css.map": "/static/css/main.097ee907.chunk.css.map",
-    "static/js/2.5bd973f5.chunk.js.LICENSE.txt": "/static/js/2.5bd973f5.chunk.js.LICENSE.txt"
+    "main.css": "/contagemRegressiva/static/css/main.097ee907.chunk.css",
+    "main.js": "/contagemRegressiva/static/js/main.190cd3cc.chunk.js",
+    "main.js.map": "/contagemRegressiva/static/js/main.190cd3cc.chunk.js.map",
+    "runtime-main.js": "/contagemRegressiva/static/js/runtime-main.c0f7f60d.js",
+    "runtime-main.js.map": "/contagemRegressiva/static/js/runtime-main.c0f7f60d.js.map",
+    "static/js/2.5bd973f5.chunk.js": "/contagemRegressiva/static/js/2.5bd973f5.chunk.js",
+    "static/js/2.5bd973f5.chunk.js.map": "/contagemRegressiva/static/js/2.5bd973f5.chunk.js.map",
+    "index.html": "/contagemRegressiva/index.html",
+    "static/css/main.097ee907.chunk.css.map": "/contagemRegressiva/static/css/main.097ee907.chunk.css.map",
+    "static/js/2.5bd973f5.chunk.js.LICENSE.txt": "/contagemRegressiva/static/js/2.5bd973f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4135bcfb.js",
+    "static/js/runtime-main.c0f7f60d.js",
     "static/js/2.5bd973f5.chunk.js",
     "static/css/main.097ee907.chunk.css",
-    "static/js/main.5f3275f6.chunk.js"
+    "static/js/main.190cd3cc.chunk.js"
   ]
 }
