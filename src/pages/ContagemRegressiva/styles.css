@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+
+  background-color: #242424de;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: #000 4px 5px 5px;
+}
+
+.boasVindas {
+  font-size: 20;
+  color: #96a5e6;
+}
+
+.contagem {
+  font-size: 25px;
+}
+
+.contagem h1 {
+  color: #858cebef;
+}
+
+.chegouDia h1{
+  font-size: 45px;
+  color: #ff0101;
+}
+
+@media(max-width: 700px){
+  .contagem {
+    font-size: 15px;
+  }
+}
