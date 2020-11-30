@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/contagemRegressiva/static/css/main.75cf7600.chunk.css",
-    "main.js": "/contagemRegressiva/static/js/main.b4fac89f.chunk.js",
-    "main.js.map": "/contagemRegressiva/static/js/main.b4fac89f.chunk.js.map",
+    "main.js": "/contagemRegressiva/static/js/main.190cd3cc.chunk.js",
+    "main.js.map": "/contagemRegressiva/static/js/main.190cd3cc.chunk.js.map",
     "runtime-main.js": "/contagemRegressiva/static/js/runtime-main.c0f7f60d.js",
     "runtime-main.js.map": "/contagemRegressiva/static/js/runtime-main.c0f7f60d.js.map",
     "static/js/2.5bd973f5.chunk.js": "/contagemRegressiva/static/js/2.5bd973f5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c0f7f60d.js",
     "static/js/2.5bd973f5.chunk.js",
     "static/css/main.75cf7600.chunk.css",
-    "static/js/main.b4fac89f.chunk.js"
+    "static/js/main.190cd3cc.chunk.js"
   ]
 }
